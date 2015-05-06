@@ -1,4 +1,4 @@
-// A three wheeled robot for the kid
+// A three wheeled car for the kid
 
 #define lmotor 10
 #define rmotor 9

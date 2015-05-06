@@ -1,4 +1,4 @@
-// the remote for theo's robot
+// the remote for the simple car
 
 // pins
 #define txpin 1
